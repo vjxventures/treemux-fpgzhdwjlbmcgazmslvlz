@@ -1,0 +1,3 @@
+# TartanMatch
+
+TartanMatch is a Tinder-style dating app built exclusively for Carnegie Mellon undergrads, featuring swipeable profile cards with drag gestures, a 40% match rate with confetti celebrations, and instant chat with auto-replies. The app includes a polished multi-step onboarding flow where students pick their college, year, major, and interests, generating rich profiles with CMU-specific prompts like "My ideal study date spot on campus is..." and "The hill I will die on about CMU is...". Built with Next.js, shadcn/ui, and Framer Motion, the entire experience runs client-side with localStorage persistence - no backend needed - making it a fully functional prototype that captures the excitement of campus dating with a distinctly CMU flavor.
